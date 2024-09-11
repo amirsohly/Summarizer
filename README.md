@@ -25,7 +25,7 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pdf-news-summarizer.git
+   git clone https://github.com/amirsohly/Summarizer
    ```
 2. Install dependencies:
    ```bash
@@ -34,7 +34,7 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
    ```
 3. Run the main GUI program:
    ```bash
-   python main.py
+   python mainwindow.py
    ```
 
 ### PDF Summarization
