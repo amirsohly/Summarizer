@@ -26,13 +26,14 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
 1. Clone the repository:
    
    git clone https://github.com/amirsohly/Summarizer.git
+   download https://github.com/amirsohly/Summarizer/archive/refs/heads/main.zip
    
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    pip install pypdf2
    pip install sumy
    ```
-3. Run the main GUI program:
+4. Run the main GUI program:
    ```bash
    python mainwindow.py
    ```
