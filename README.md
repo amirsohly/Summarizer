@@ -31,7 +31,8 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pypdf2
+   pip install sumy
    ```
 3. Run the main GUI program:
    ```bash
