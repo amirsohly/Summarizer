@@ -1,7 +1,5 @@
 # Summarizer
 It helps you easily summarize texts in PDF files and web pages
-Here’s a sample README for your project, which you can use for GitHub:
-
 ---
 
 # PDF and News Summarizer
