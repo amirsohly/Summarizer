@@ -24,9 +24,9 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
 ## How to Use
 
 1. Clone the repository:
-   ```
+   
    git clone [https://github.com/amirsohly/Summarizer.git](https://github.com/amirsohly/Summarizer.git)
-   ```
+   
 2. Install dependencies:
    ```bash
    pip install pypdf2
