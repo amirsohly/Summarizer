@@ -25,8 +25,8 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
 
 1. Clone the repository:
    
-   git clone https://github.com/amirsohly/Summarizer.git
-   download https://github.com/amirsohly/Summarizer/archive/refs/heads/main.zip
+   - git clone https://github.com/amirsohly/Summarizer.git
+   - download [link](https://github.com/amirsohly/Summarizer/archive/refs/heads/main.zip)
    
 3. Install dependencies:
    ```bash
