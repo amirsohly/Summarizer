@@ -49,10 +49,9 @@ This project provides a **Graphical User Interface (GUI)** using **Tkinter** for
 
 ## File Structure
 
-- `main.py`: Launches the GUI and allows users to choose between PDF and link summarization.
+- `mainwindow.py`: Launches the GUI and allows users to choose between PDF and link summarization.
 - `pdf.py`: Handles the PDF summarization logic.
 - `link.py`: Handles the link summarization logic.
-- `requirements.txt`: Contains all necessary Python libraries.
 
 ## Dependencies
 
